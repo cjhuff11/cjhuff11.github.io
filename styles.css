@@ -1,15 +1,21 @@
 body {
-    color: #36454F;
+    color: black;
     background-image: url('./resources/IMG_7524.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
 }
 
 #header {
-    background-color: lightskyblue;
+    background-color: rgba(135, 206, 250, 0.6);
     text-align: center;
+    
 }
 
 #education {
-    background-color: lightskyblue;
+    background-color: rgba(135, 206, 250, 0.6);
     text-align: center;
 }
 
@@ -17,4 +23,9 @@ body {
     background-color: coral;
     color:black;
     text-align: center;
+}
+
+div {
+    width: 80%;
+    margin: 0 auto;
 }
