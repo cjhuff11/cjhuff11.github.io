@@ -1,4 +1,20 @@
 body {
-    background-color: bisque;
     color: #36454F;
+    background-image: url('./resources/IMG_7524.jpeg');
+}
+
+#header {
+    background-color: lightskyblue;
+    text-align: center;
+}
+
+#education {
+    background-color: lightskyblue;
+    text-align: center;
+}
+
+#wip {
+    background-color: coral;
+    color:black;
+    text-align: center;
 }
